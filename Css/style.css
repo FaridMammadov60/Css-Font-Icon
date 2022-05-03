@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.content{
+    height: 300px;
+    width: 60%;
+    padding-left: 40%;
+}
+span{
+    text-align: center;
+    background-color: rgb(179,106,77);
+    width: 100px;
+    height: 85px;
+    border-radius: 0 25px;
+    margin-top: 45px;
+    padding-top: 40px;
+    margin-left: 50px;
+    
+}
+h2{
+    text-align: center;
+    padding-top: 10px;
+    width: 85%;
+}
+p{
+    text-align: center;
+}
